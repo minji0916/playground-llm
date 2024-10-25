@@ -1,0 +1,13 @@
+# 환경 설정 파일들
+.env
+*.env
+
+# Python
+__pycache__/
+
+# 가상 환경
+.venv/
+
+# data 폴더
+data/
+rag/
